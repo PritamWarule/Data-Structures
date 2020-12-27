@@ -1,0 +1,9 @@
+a={1,2}
+print(a)
+print(set((1,2,3)))
+print(len(set([1,1,2,2])))
+p={1,2,3}
+print(sum(p))
+q={1,2,4,5}
+print(p-q)
+print(q*3)
